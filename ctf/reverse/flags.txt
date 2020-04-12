@@ -1,0 +1,7 @@
+rust_in_the_wind: skoltech{all_we_are_1s_RUST}
+shapespper: skoltech{IT_IS_FLAG}
+b64: skoltech{touchd000000000wn}
+ceasar: skoltech{dont_use_1t_1n_pr0d}
+eject_info: skoltech{33555_tsk_225}
+hack_admin_#1: skoltech{788857115}
+hack_admin_#2: skoltech{345435345sdfgsgdsd35345}
